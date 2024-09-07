@@ -10,13 +10,29 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `The Happy Land of Angel Fairy Co. ${CMS_NAME}`,
+  description: `This is a land where I run my business ${CMS_NAME}.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
+    title: 'Angel Fairy Co.',
+    description: 'This is a land where I run my business.',
+    siteName: 'Angel Fairy Co.',
+    locale: 'en_AU',
+    type: 'website',
   },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  }
 };
-
+ 
 export default function RootLayout({
   children,
 }: Readonly<{
