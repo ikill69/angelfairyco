@@ -2,7 +2,7 @@
 title: "Shop"
 excerpt: "A place to buy all the wonderful things I make."
 coverImage: "${basePath}/assets/blog/shop/cover.jpg"
-date: "2024-09-07T05:35:07.322Z"
+date: "2024-09-09T05:35:07.322Z"
 author:
   name: Angel Fairy
   picture: "${basePath}/assets/blog/authors/af.jpeg"

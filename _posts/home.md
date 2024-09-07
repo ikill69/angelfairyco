@@ -1,6 +1,6 @@
 ---
 title: "Home"
-excerpt: "Angel Fairy Co. Home page"
+excerpt: "Angel Fairy Co."
 coverImage: "${basePath}/assets/blog/home/cover.jpg"
 date: "2024-09-10T05:35:07.322Z"
 author:
@@ -10,94 +10,10 @@ ogImage:
   url: "${basePath}/assets/blog/home/cover.jpg"
 ---
 
-RENAME THIS FILE WITH ".md" extention to be built into the blog
+## Site Links
 
-Paragraph text here maybe
+1.  [Intro](${basePath}/assets/blog/about)
+2.  [Purchase](${basePath}/assets/blog/books)
+3.  [Daisy](${basePath}/assets/blog/shop)
+4.  [Cross](${basePath}/assets/blog/rubix-cube)
 
-## Heading 2 
-
-Paragraph text here maybe
-
-### Heading 3
-
-Paragraph text here maybe
-
-
-## Basic Syntax
-
-Some basic formating 
-
-Bold: 
-**bold text**
-
-Italic: 
-*italicized text*
-
-blockquote
-> This is line 1
-> This is line 2
-> This is line 3
-
-Ordered List
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-Horizontal Rule:
----
-
-Code:
-`code`
-
-Absolutue Link:
-[angelfairyco.com Link](https://www.angelfairyco.com/)
-
-Reletive Link:
-Still working this out
-
-Absolutue Image:
-![Absolutue Image text](${basePath}/assets/blog/authors/af.jpeg)
-
-Reletive Image:
-This will not work with Git pages
-
-## Extended Syntax
-
-Table:
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-Fenced Code Block:
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-Footnote: 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-Heading ID Link:
-### My Great Heading {#my-great-heading}
-
-[My Great Heading](#my-great-heading)
-
-Highlight:
-I need to highlight these ==very important words==.
-
-Subscript:
-this is water H~2~O
-
-Superscript:
-this is cool X^2^

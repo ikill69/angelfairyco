@@ -2,7 +2,7 @@
 title: "Books"
 excerpt: "Self published books from Angel Fairy Co."
 coverImage: "${basePath}/assets/blog/books/cover.jpg"
-date: "2024-09-07T05:35:07.322Z"
+date: "2024-09-06T05:35:07.322Z"
 author:
   name: Angel Fairy
   picture: "${basePath}/assets/blog/authors/af.jpeg"
