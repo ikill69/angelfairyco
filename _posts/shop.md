@@ -1,6 +1,6 @@
 ---
 title: "Shop"
-excerpt: "A place to buy all the wonderfull things I make."
+excerpt: "A place to buy all the wonderful things I make."
 coverImage: "${basePath}/assets/blog/shop/cover.jpg"
 date: "2024-09-07T05:35:07.322Z"
 author:
@@ -10,94 +10,23 @@ ogImage:
   url: "${basePath}/assets/blog/shop/cover.jpg"
 ---
 
-RENAME THIS FILE WITH ".md" extention to be built into the blog
+## Online Store
 
-Paragraph text here maybe
+We sell a variety of truly wonderful and interesting things at Angel Fairy Co. 
 
-## Heading 2 
+### Jewelry  
 
-Paragraph text here maybe
+- Glass bead necklaces and bracelets 
+- Charm necklaces
+- Key rings
 
-### Heading 3
+### Books
 
-Paragraph text here maybe
+I have written and illustrated a self published children's story that is for sale in Amazon. 
 
+### Rubix Cubes  
 
-## Basic Syntax
+I also sell fidgets such as the Rubix Cubes. 
+I have also made a training course on how to solve a Rubix Cube that you can watch for free.  
 
-Some basic formating 
-
-Bold: 
-**bold text**
-
-Italic: 
-*italicized text*
-
-blockquote
-> This is line 1
-> This is line 2
-> This is line 3
-
-Ordered List
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-Horizontal Rule:
----
-
-Code:
-`code`
-
-Absolutue Link:
-[angelfairyco.com Link](https://www.angelfairyco.com/)
-
-Reletive Link:
-Still working this out
-
-Absolutue Image:
-![Absolutue Image text](${basePath}/assets/blog/authors/af.jpeg)
-
-Reletive Image:
-This will not work with Git pages
-
-## Extended Syntax
-
-Table:
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-Fenced Code Block:
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-Footnote: 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-Heading ID Link:
-### My Great Heading {#my-great-heading}
-
-[My Great Heading](#my-great-heading)
-
-Highlight:
-I need to highlight these ==very important words==.
-
-Subscript:
-this is water H~2~O
-
-Superscript:
-this is cool X^2^
+ 

@@ -10,94 +10,42 @@ ogImage:
   url: "${basePath}/assets/blog/rubix-cube/cover.jpg"
 ---
 
-RENAME THIS FILE WITH ".md" extention to be built into the blog
+# Learn How to solve a Rubix Cube
+1.  [Intro](#intro)
+2.  [Purchase](#purchase)
+3.  [Daisy](#daisy)
+4.  [Cross](#cross)
+5.  [Bottom Corners](#bottom-corners)
+6.  [Middle Row](#middle-row)
+7.  [Top Cross](#top-cross)
+8.  [Top Corners](#top-corners)
 
-Paragraph text here maybe
+## Intro
 
-## Heading 2 
+Explanation about the Rubix cube and how the pieces move 
 
-Paragraph text here maybe
+## Daisy
 
-### Heading 3
+First step is making the daisy
 
-Paragraph text here maybe
+## Cross
 
+Now we move onto the white cross.
 
-## Basic Syntax
+## Bottom Corners
 
-Some basic formating 
+Solve the bottom white corners. 
 
-Bold: 
-**bold text**
+## Middle Row
 
-Italic: 
-*italicized text*
+Solve the middle layer
 
-blockquote
-> This is line 1
-> This is line 2
-> This is line 3
+## Top Cross
 
-Ordered List
-1. First item
-2. Second item
-3. Third item
+Top Yellow Cross
 
-Unordered List:
-- First item
-- Second item
-- Third item
+## Top Corners
 
-Horizontal Rule:
----
+Get the last yellow corners into position and solve them
 
-Code:
-`code`
-
-Absolutue Link:
-[angelfairyco.com Link](https://www.angelfairyco.com/)
-
-Reletive Link:
-Still working this out
-
-Absolutue Image:
-![Absolutue Image text](${basePath}/assets/blog/authors/af.jpeg)
-
-Reletive Image:
-This will not work with Git pages
-
-## Extended Syntax
-
-Table:
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-Fenced Code Block:
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-Footnote: 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-Heading ID Link:
-### My Great Heading {#my-great-heading}
-
-[My Great Heading](#my-great-heading)
-
-Highlight:
-I need to highlight these ==very important words==.
-
-Subscript:
-this is water H~2~O
-
-Superscript:
-this is cool X^2^
+ 
