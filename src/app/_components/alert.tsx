@@ -28,14 +28,13 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{" "}
+              Please visit my online {" "}
               <a
-                href={`https://github.com/ikill69/angelfairyco`}
-                className="underline hover:text-blue-600 duration-200 transition-colors"
+              href="https://www.angelfairyco.com/posts/shop"
+              className="underline hover:text-blue-600 duration-200 transition-colors"
               >
-                available on GitHub
-              </a>
-              .
+              Shop
+            </a>{" "}.
             </>
           )}
         </div>
