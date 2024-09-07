@@ -23,7 +23,7 @@ export function Footer() {
             </a>
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2"> 
-              Copyright © creation on 01/08/2024, angelfairyco – All the right reserved.
+              Copyright © creation on 01/08/2024, Angel Fairy Co. – All the right reserved.
           </div>
         </div>
       </Container>
