@@ -20,18 +20,14 @@ ogImage:
 7.  [Top Cross](#top-cross)
 8.  [Top Corners](#top-corners)
 
-  
 ## Intro
-
-Explanation about the Rubik's cube and how the pieces move 
 
 I love the Rubik’s cube because it is actually really fun when you learn how to solve it.
 I love to teach people because it is fun and kind for people that want to learn how to solve it. 
 I learnt how to solve the Rubik’s cube 2 months ago when I was 8.
 I can solve it about under 2 minutes.   
 
-
-
+Explanation about the Rubik's cube and how the pieces move 
 
 ## Daisy
 
