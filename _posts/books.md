@@ -26,7 +26,13 @@ My second book that I am planing on publishing and selling as a hard cover is ca
 
 It is **coming soon** to an Amazon near you.   
 
+test 
 
+| Table | test 1 | test 2 | test 3 |
+| -------- | ------- | -------- | ------- |
+| Bla 1 | Bla 2 | bla 3 | bla 4 |
+
+test 2
 
 | Cover | Page 1 | Page 2 | Page 3 |
 | -------- | ------- | -------- | ------- |
