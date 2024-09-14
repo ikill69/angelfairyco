@@ -29,11 +29,14 @@ It is **coming soon** to an Amazon near you.
 
 
 | Cover | Page 1 | Page 2 | Page 3 |
+| -------- | ------- | -------- | ------- |
 | ![Cover](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg) | ![Page 1](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg) | ![Page 2](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg) | ![Page 3](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg) |
 
 
-[<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="200"/>](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg)
-[<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200"/>](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg)
-[<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200"/>](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg)
-[<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="200"/>](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg)
+Images below
+
+[<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="200" alt="Cover"/>](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg)
+[<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" alt="Page 1"/>](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg)
+[<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" alt="Page 2"/>](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg)
+[<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="200" alt="Page 3"/>](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg)
 
