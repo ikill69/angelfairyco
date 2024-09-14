@@ -40,6 +40,6 @@ Unfortunately this is the only copy and I was not able to sell this one. This wa
 
 ## My Second children's Book  
 
-My second book that I am planning on publishing and selling as a hard cover is called **“Everyone Likes to Rhyme“** and it’s about 4 kids who like to rhyme. I have don all the planning, writing and illustrations for this book. I have also helped with the design.
+My second book that I am planning on publishing and selling as a hard cover is called **“Everyone Likes to Rhyme“** and it’s about 4 kids who like to rhyme. I have done all the planning, writing and illustrations for this book. I have also helped with the design.
 
 It is **coming soon** to an Amazon near you.   
