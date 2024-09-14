@@ -14,3 +14,12 @@ ogImage:
 ## My First children's Book  
 
 I have written and illustrated a self published children's story that is for sale in Amazon. 
+
+![Absolutue Image text](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg)
+
+![Absolutue Image text](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg)
+![Absolutue Image text](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg)
+![Absolutue Image text](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg)
+
+
+
