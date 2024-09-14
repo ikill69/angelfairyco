@@ -40,3 +40,10 @@ Images below
 [<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" alt="Page 2"/>](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg)
 [<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="200" alt="Page 3"/>](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg)
 
+More images
+
+<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="200" alt="Cover"/>
+<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" alt="Page 1"/>
+<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" alt="Page 2"/>
+<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="200" alt="Page 3"/>
+
