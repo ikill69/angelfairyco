@@ -26,29 +26,21 @@ My second book that I am planing on publishing and selling as a hard cover is ca
 
 It is **coming soon** to an Amazon near you.   
 
-test 
-| Table | test 1 | test 2 | test 3 |
-| -------- | ------- | -------- | ------- |
-| Bla 1 | Bla 2 | bla 3 | bla 4 |
-
-test 2
-
-| Cover | Page 1 | Page 2 | Page 3 |
-| -------- | ------- | -------- | ------- |
-| ![Cover](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg) | ![Page 1](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg) | ![Page 2](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg) | ![Page 3](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg) |
-
-
-Images below
-
-[<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="200" alt="Cover"/>](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg)
-[<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" alt="Page 1"/>](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg)
-[<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" alt="Page 2"/>](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg)
-[<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="200" alt="Page 3"/>](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg)
-
-More images
-
-<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="200" alt="Cover"/>
-<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" alt="Page 1"/>
-<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" alt="Page 2"/>
-<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="200" alt="Page 3"/>
-
+<table class="table-auto">
+  <thead>
+    <tr>
+      <th>Cover</th>
+      <th>Page 1</th>
+      <th>Page 2</th>
+      <th>Page </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="150" height="200" alt="Cover"/>](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg)</td>
+      <td>[<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" height="150" alt="Page 1"/>](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg)</td>
+      <td>[<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" height="150" alt="Page 2"/>](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg)</td>
+      <td>[<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="150" height="200" alt="Page 3"/>](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg)</td>
+    </tr>
+  </tbody>
+</table>
