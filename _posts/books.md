@@ -27,7 +27,6 @@ My second book that I am planing on publishing and selling as a hard cover is ca
 It is **coming soon** to an Amazon near you.   
 
 test 
-
 | Table | test 1 | test 2 | test 3 |
 | -------- | ------- | -------- | ------- |
 | Bla 1 | Bla 2 | bla 3 | bla 4 |
@@ -39,6 +38,17 @@ test 2
 | ![Cover](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg) | ![Page 1](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg) | ![Page 2](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg) | ![Page 3](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg) |
 
 
-Images test below
- 
-![Cover](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg) { width=200px }
+Images below
+
+[<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="200" alt="Cover"/>](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg)
+[<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" alt="Page 1"/>](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg)
+[<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" alt="Page 2"/>](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg)
+[<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="200" alt="Page 3"/>](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg)
+
+More images
+
+<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="200" alt="Cover"/>
+<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" alt="Page 1"/>
+<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" alt="Page 2"/>
+<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="200" alt="Page 3"/>
+
