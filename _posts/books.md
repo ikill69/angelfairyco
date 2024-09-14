@@ -37,10 +37,10 @@ It is **coming soon** to an Amazon near you.
   </thead>
   <tbody>
     <tr>
-      <td>[<img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="150" height="200" alt="Cover"/>](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg)</td>
-      <td>[<img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" height="150" alt="Page 1"/>](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg)</td>
-      <td>[<img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" height="150" alt="Page 2"/>](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg)</td>
-      <td>[<img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="150" height="200" alt="Page 3"/>](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg)</td>
+      <td><img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="150" height="200" alt="Cover"/></td>
+      <td><img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" height="150" alt="Page 1"/></td>
+      <td><img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" height="150" alt="Page 2"/></td>
+      <td><img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="150" height="200" alt="Page 3"/></td>
     </tr>
   </tbody>
 </table>
