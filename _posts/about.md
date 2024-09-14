@@ -16,6 +16,6 @@ I was born in 2016. I have a very big family. I have an adorable little puppy th
 
 It all started when I was 7, when me and my dad went to have some pizza and I asked if kids were allowed to have a business and my dad said yes. What I love about having a business is that  it is fun and I like the way you can sell anything which is why I chose the combination that I have. ( Books, Jewellery and Fidgets ) I like getting the money and I like having something interesting to do. I also like doing the selling at the markets. 
 
-I wanted to be an author after I made my first book called [“all about dexter”](${basePath}/assets/blog/books) to surprise my mum and dad. It was exciting to make my first book so, I wanted to make some more books.  
+I wanted to be an author after I made my first book called [“all about dexter”](${basePath}/posts/books) to surprise my mum and dad. It was exciting to make my first book so, I wanted to make some more books.  
 
 ![all about dexter](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg)

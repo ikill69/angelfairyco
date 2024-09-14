@@ -12,8 +12,8 @@ ogImage:
 
 ## Site Links
 
-1.  [About](${basePath}/assets/blog/about)
-2.  [Books](${basePath}/assets/blog/books)
-3.  [Shop](${basePath}/assets/blog/shop)
-4.  [Rubix Cube](${basePath}/assets/blog/rubix-cube)
+1.  [About](${basePath}/posts/about)
+2.  [Books](${basePath}/posts/books)
+3.  [Shop](${basePath}/posts/shop)
+4.  [Rubix Cube](${basePath}/posts/rubix-cube)
 
