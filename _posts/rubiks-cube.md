@@ -1,16 +1,16 @@
 ---
-title: "Rubix Cube"
-excerpt: "Learn how to solve a Rubix cube"
-coverImage: "${basePath}/assets/blog/rubix-cube/cover.jpg"
+title: "Rubik's Cube"
+excerpt: "Learn how to solve a Rubik's cube"
+coverImage: "${basePath}/assets/blog/rubiks-cube/cover.jpg"
 date: "2024-09-07T05:35:07.322Z"
 author:
   name: Angel Fairy
   picture: "${basePath}/assets/blog/authors/af.jpeg"
 ogImage:
-  url: "${basePath}/assets/blog/rubix-cube/cover.jpg"
+  url: "${basePath}/assets/blog/rubiks-cube/cover.jpg"
 ---
 
-# Learn How to solve a Rubix Cube
+# Learn How to solve a Rubik's Cube
 1.  [Intro](#intro)
 2.  [Purchase](#purchase)
 3.  [Daisy](#daisy)
@@ -20,10 +20,10 @@ ogImage:
 7.  [Top Cross](#top-cross)
 8.  [Top Corners](#top-corners)
 
-
+  
 ## Intro
 
-Explanation about the Rubix cube and how the pieces move 
+Explanation about the Rubik's cube and how the pieces move 
 
 I love the Rubik’s cube because it is actually really fun when you learn how to solve it.
 I love to teach people because it is fun and kind for people that want to learn how to solve it. 
