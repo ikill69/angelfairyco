@@ -15,5 +15,5 @@ ogImage:
 1.  [About](${basePath}/posts/about)
 2.  [Books](${basePath}/posts/books)
 3.  [Shop](${basePath}/posts/shop)
-4.  [Rubix Cube](${basePath}/posts/rubix-cube)
+4.  [Rubik's Cube](${basePath}/posts/rubiks-cube)
 
