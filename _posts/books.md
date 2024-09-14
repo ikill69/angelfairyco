@@ -17,21 +17,21 @@ I got the idea to make books from my dad when we were on holiday. He asked me if
 
 My first book was called **“all about dexter“**. I did all the words and the illustrations myself. This is it. 
 
-<table class="table-auto">
-  <thead>
+<table class="min-w-full text-left text-sm font-light text-surface dark:text-white">
+  <thead class="border-b border-neutral-200 font-medium dark:border-white/10">
     <tr>
-      <th>Cover</th>
-      <th>Page 1</th>
-      <th>Page 2</th>
-      <th>Page </th>
+      <th scope="col" class="px-6 py-4">Cover</th>
+      <th scope="col" class="px-6 py-4">Page 1</th>
+      <th scope="col" class="px-6 py-4">Page 2</th>
+      <th scope="col" class="px-6 py-4">Page </th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="150" height="200" alt="Cover"/></td>
-      <td><img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" height="150" alt="Page 1"/></td>
-      <td><img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" height="150" alt="Page 2"/></td>
-      <td><img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="150" height="200" alt="Page 3"/></td>
+    <tr class="border-b border-neutral-200 dark:border-white/10">
+      <td class="whitespace-nowrap px-6 py-4"><img src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" width="150" height="200" alt="Cover"/></td>
+      <td class="whitespace-nowrap px-6 py-4"><img src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" width="200" height="150" alt="Page 1"/></td>
+      <td class="whitespace-nowrap px-6 py-4"><img src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" width="200" height="150" alt="Page 2"/></td>
+      <td class="whitespace-nowrap px-6 py-4"><img src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" width="150" height="200" alt="Page 3"/></td>
     </tr>
   </tbody>
 </table>
