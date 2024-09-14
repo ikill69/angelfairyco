@@ -17,7 +17,20 @@ I got the idea to make books from my dad when we were on holiday. He asked me if
 
 My first book was called **“all about dexter“**. I did all the words and the illustrations myself. This is it. 
 
-| ![Cover](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg) | ![Page 1](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg) | ![Page 2](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg) | ![Page 3](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg) |
+<div class="flex flex-col items-center justify-center">
+  <div class="flex min-h-screen h-screen">
+    <img class="h-auto object-contain max-w-full drop-shadow-md rounded-md" src="${basePath}/assets/blog/books/AllAboutDexter-cover.jpg" alt="Cover" />
+  </div>
+  <div class="flex min-h-screen h-screen">
+    <img class="h-auto object-contain max-w-full drop-shadow-md rounded-md" src="${basePath}/assets/blog/books/AllAboutDexter-page1.jpg" alt="Page 1" />
+  </div>
+  <div class="flex min-h-screen h-screen">
+    <img class="h-auto object-contain max-w-full drop-shadow-md rounded-md" src="${basePath}/assets/blog/books/AllAboutDexter-page2.jpg" alt="Page 2" />
+  </div>
+  <div class="flex min-h-screen h-screen">
+    <img class="h-auto object-contain max-w-full drop-shadow-md rounded-md" src="${basePath}/assets/blog/books/AllAboutDexter-page3.jpg" alt="Page 3" />
+  </div>
+</div>
 
 Unfortunately this is the only copy and I was not able to sell this one. This was when I decided to make and publish my first real kids book on Amazon.  
 
@@ -26,3 +39,8 @@ Unfortunately this is the only copy and I was not able to sell this one. This wa
 My second book that I am planing on publishing and selling as a hard cover is called **“Everyone Likes to Rhyme“** and it’s about 4 kids who like to rhyme. I have don all the planning, writing and illustrations for this book. I have also helped with the design.
 
 It is **coming soon** to an Amazon near you.   
+
+
+
+
+| ![Cover](${basePath}/assets/blog/books/AllAboutDexter-cover.jpg) | ![Page 1](${basePath}/assets/blog/books/AllAboutDexter-page1.jpg) | ![Page 2](${basePath}/assets/blog/books/AllAboutDexter-page2.jpg) | ![Page 3](${basePath}/assets/blog/books/AllAboutDexter-page3.jpg) |
