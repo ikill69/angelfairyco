@@ -23,7 +23,7 @@ My first book was called **“all about dexter“**. I did all the words and the
       <th scope="col" class="px-6 py-4">Cover</th>
       <th scope="col" class="px-6 py-4">Page 1</th>
       <th scope="col" class="px-6 py-4">Page 2</th>
-      <th scope="col" class="px-6 py-4">Page </th>
+      <th scope="col" class="px-6 py-4">Back</th>
     </tr>
   </thead>
   <tbody>
