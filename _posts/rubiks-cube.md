@@ -13,7 +13,7 @@ ogImage:
 # Learn How to solve a Rubik's Cube
 1.  [Intro](#intro)
 2.  [Purchase](#purchase)
-3.  [Daisy](#daisy)
+3.  [Daisy and White Cross](#daisy-and-white-cross)
 4.  [Cross](#cross)
 5.  [Bottom Corners](#bottom-corners)
 6.  [Middle Row](#middle-row)
@@ -31,15 +31,14 @@ Explanation about the Rubik's cube and how the pieces move
 
 <iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"></iframe>
 
-## Daisy
+## Daisy and White Cross
 
 First step is making the daisy
 
+Then we move onto the white cross.
+
 <iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/Daqt2LbTlJw" frameBorder="0" title="Solve the Rubik's Cube for Kids - Start Position" aria-hidden="true"></iframe>
 
-## Cross
-
-Now we move onto the white cross.
 
 ## Bottom Corners
 
