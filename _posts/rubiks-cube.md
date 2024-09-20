@@ -58,7 +58,7 @@ Solve the bottom white corners.
 Solve the middle layer
 
 <div class="aspect-video">
-    <iframe className="w-full h-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/" frameBorder="0" title="Solve the Rubik's Cube for Kids - " aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe className="w-full h-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/-0txerxwkIo" frameBorder="0" title="Solve the Rubik's Cube for Kids - " aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
