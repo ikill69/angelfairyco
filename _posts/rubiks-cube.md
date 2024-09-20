@@ -35,6 +35,8 @@ Explanation about the Rubik's cube and how the pieces move
 
 First step is making the daisy
 
+<iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/Daqt2LbTlJw" frameBorder="0" title="Solve the Rubik's Cube for Kids - Start Position" aria-hidden="true"></iframe>
+
 ## Cross
 
 Now we move onto the white cross.
