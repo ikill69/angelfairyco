@@ -24,9 +24,9 @@ We sell a variety of truly wonderful and interesting things at Angel Fairy Co.
 
 I have written and illustrated a self published children's story that is for sale in Amazon. 
 
-### Fidgets and Rubix Cubes  
+### Fidgets and Rubik's Cubes  
 
-I also sell fidgets such as the Rubix Cubes. 
-I have also made a training course on how to solve a Rubix Cube that you can watch for free.  
+I also sell fidgets such as the Rubik's Cubes. 
+I have also made a training course on how to solve a Rubik's Cube that you can watch for free.  
 
  

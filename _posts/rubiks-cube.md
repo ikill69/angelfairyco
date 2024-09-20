@@ -29,7 +29,10 @@ I can solve it about under 2 minutes.
 
 Explanation about the Rubik's cube and how the pieces move 
 
-<iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Daisy and White Cross
 
@@ -37,27 +40,42 @@ First step is making the daisy
 
 Then we move onto the white cross.
 
-<iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/Daqt2LbTlJw" frameBorder="0" title="Solve the Rubik's Cube for Kids - Start Position" aria-hidden="true"></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/Daqt2LbTlJw" frameBorder="0" title="Solve the Rubik's Cube for Kids - Start Position" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Bottom Corners
 
-
-<iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/sQP1NA9n5T4" frameBorder="0" title="Solve the Rubik's Cube for Kids - Bottom Layer" aria-hidden="true"></iframe>
-
-
 Solve the bottom white corners. 
+
+<div class="aspect-w-16 aspect-h-9">
+    <iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/sQP1NA9n5T4" frameBorder="0" title="Solve the Rubik's Cube for Kids - Bottom Layer" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Middle Row
 
 Solve the middle layer
 
+<div class="aspect-w-16 aspect-h-9">
+    <iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/" frameBorder="0" title="Solve the Rubik's Cube for Kids - " aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## Top Cross
 
 Top Yellow Cross
+
+<div class="aspect-w-16 aspect-h-9">
+    <iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/" frameBorder="0" title="Solve the Rubik's Cube for Kids - " aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Top Corners
 
 Get the last yellow corners into position and solve them
 
+<div class="aspect-w-16 aspect-h-9">
+    <iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/" frameBorder="0" title="Solve the Rubik's Cube for Kids - " aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
  
