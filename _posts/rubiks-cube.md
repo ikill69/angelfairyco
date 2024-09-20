@@ -29,7 +29,7 @@ I can solve it about under 2 minutes.
 
 Explanation about the Rubik's cube and how the pieces move 
 
-<iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"/>
+<iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"></iframe>
 
 ## Daisy
 
