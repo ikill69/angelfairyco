@@ -35,7 +35,7 @@ Explanation about the Rubik's cube and how the pieces move
     frameBorder="0"
     title="Solve the Rubik's cube for kids - Intro"
     aria-hidden="true"
-/>
+></iframe>
 
 ## Daisy
 
