@@ -43,6 +43,10 @@ Now we move onto the white cross.
 
 ## Bottom Corners
 
+
+<iframe className="w-full aspect-video self-stretch md:min-h-96" src="https://www.youtube.com/embed/sQP1NA9n5T4" frameBorder="0" title="Solve the Rubik's Cube for Kids - Bottom Layer" aria-hidden="true"></iframe>
+
+
 Solve the bottom white corners. 
 
 ## Middle Row
