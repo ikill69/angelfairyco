@@ -35,8 +35,8 @@ I can solve it about under 2 minutes.
 Explanation about the Rubik's cube and how the pieces move 
 
 
-<div class="aspect-video">
-    <iframe class="w-full h-full" src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2 id="daisy-and-white-cross">Daisy and White Cross</h2>
@@ -45,40 +45,40 @@ First step is making the daisy
 
 Then we move onto the white cross.
 
-<div class="aspect-video">
-    <iframe class="w-full h-full" src="https://www.youtube.com/embed/Daqt2LbTlJw" frameBorder="0" title="Solve the Rubik's Cube for Kids - Start Position" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe src="https://www.youtube.com/embed/Daqt2LbTlJw" frameBorder="0" title="Solve the Rubik's Cube for Kids - Start Position" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2 id="white-cross">White Cross and Bottom Corners</h2>
 
 Solve the bottom white corners. 
 
-<div class="aspect-video ">
-    <iframe class="w-full h-full"  src="https://www.youtube.com/embed/sQP1NA9n5T4" frameBorder="0" title="Solve the Rubik's Cube for Kids - Bottom Layer" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe src="https://www.youtube.com/embed/sQP1NA9n5T4" frameBorder="0" title="Solve the Rubik's Cube for Kids - Bottom Layer" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2 id="middle-row">Middle Row</h2>
 
 Solve the middle layer
 
-<div class="aspect-video">
-    <iframe class="w-full h-full"  src="https://www.youtube.com/embed/-0txerxwkIo" frameBorder="0" title="Solve the Rubik's Cube for Kids – Middle Layer" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe src="https://www.youtube.com/embed/-0txerxwkIo" frameBorder="0" title="Solve the Rubik's Cube for Kids – Middle Layer" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2 id="top-cross">Top Cross</h2>
 
 Top Yellow Cross
 
-<div class="aspect-video">
-    <iframe class="w-full h-full"  src="https://www.youtube.com/embed/zkCRFMyfXXY" frameBorder="0" title="Solve the Rubik's Cube for Kids – Yellow Cross" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe src="https://www.youtube.com/embed/zkCRFMyfXXY" frameBorder="0" title="Solve the Rubik's Cube for Kids – Yellow Cross" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2 id="top-corners">Top Corners</h2>
 
 Get the last yellow corners into position and solve them
 
-<div class="aspect-video">
-    <iframe class="w-full h-full"  src="https://www.youtube.com/embed/xTVqkop8GoA" frameBorder="0" title="Solve the Rubik's Cube for Kids – Cube Solved" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe src="https://www.youtube.com/embed/xTVqkop8GoA" frameBorder="0" title="Solve the Rubik's Cube for Kids – Cube Solved" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
  
