@@ -15,7 +15,7 @@ ogImage:
 1. <a href="#intro">Intro</a>
 2. <a href="#purchase">Purchase</a>
 3. <a href="#daisy-and-white-cross">Daisy and White Cross</a>
-4. <a href="#Cross">cross</a>
+4. <a href="#white-cross">White Cross and Bottom Corners</a>
 5. <a href="#Bottom Corners">bottom-corners</a>
 6. <a href="#Middle Row">middle-row</a>
 7. <a href="#Top Cross">top-cross</a>
@@ -51,8 +51,7 @@ Then we move onto the white cross.
     <iframe class="w-full h-full" src="https://www.youtube.com/embed/Daqt2LbTlJw" frameBorder="0" title="Solve the Rubik's Cube for Kids - Start Position" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<h2 id="cross">White Cross</h2>
-
+<h2 id="white-cross">White Cross and Bottom Corners</h2>
 
 Solve the bottom white corners. 
 
@@ -60,7 +59,7 @@ Solve the bottom white corners.
     <iframe class="w-full h-full"  src="https://www.youtube.com/embed/sQP1NA9n5T4" frameBorder="0" title="Solve the Rubik's Cube for Kids - Bottom Layer" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<h2 id="bottom-corners">Bottom Corners</h2>
+<h2 id="bottom-corners"></h2>
 
 <h2 id="middle-row">Middle Row</h2>
 
