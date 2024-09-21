@@ -32,13 +32,13 @@ I can solve it about under 2 minutes.
 
 Explanation about the Rubik's cube and how the pieces move 
 
-<div class="aspect-video">
+<div class="aspect-video w-fit h-fit">
     <iframe className="w-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2 id="purchase">Purchase</h2>
 
-
+The best place to <a href="https://amzn.to/4ew2Giv" target="_blank" alt="">find a Rubik's Cube is Amazon</a>. This is an affiliate link.
 
 <h2 id="daisy-and-white-cross">Daisy and White Cross</h2>
 
@@ -55,7 +55,7 @@ Then we move onto the white cross.
 
 Solve the bottom white corners. 
 
-<div class="aspect-video">
+<div class="aspect-video ">
     <iframe className="w-full h-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/sQP1NA9n5T4" frameBorder="0" title="Solve the Rubik's Cube for Kids - Bottom Layer" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -66,7 +66,7 @@ Solve the bottom white corners.
 Solve the middle layer
 
 <div class="aspect-video">
-    <iframe className="w-full h-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/-0txerxwkIo" frameBorder="0" title="Solve the Rubik's Cube for Kids - " aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe className="w-full h-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/-0txerxwkIo" frameBorder="0" title="Solve the Rubik's Cube for Kids – Middle Layer" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2 id="top-cross">Top Cross</h2>
@@ -74,7 +74,7 @@ Solve the middle layer
 Top Yellow Cross
 
 <div class="aspect-video">
-    <iframe className="w-full h-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/" frameBorder="0" title="Solve the Rubik's Cube for Kids - " aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe className="w-full h-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/zkCRFMyfXXY" frameBorder="0" title="Solve the Rubik's Cube for Kids – Yellow Cross" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2 id="top-corners">Top Corners</h2>
@@ -82,7 +82,7 @@ Top Yellow Cross
 Get the last yellow corners into position and solve them
 
 <div class="aspect-video">
-    <iframe className="w-full h-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/" frameBorder="0" title="Solve the Rubik's Cube for Kids - " aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe className="w-full h-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/xTVqkop8GoA" frameBorder="0" title="Solve the Rubik's Cube for Kids – Cube Solved" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  
  
