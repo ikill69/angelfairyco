@@ -32,6 +32,13 @@ I can solve it about under 2 minutes.
 
 Explanation about the Rubik's cube and how the pieces move 
 
+
+<div class="aspect-video">
+    <iframe class="w-full h-full" src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+test
+
 <div class="aspect-video w-fit h-fit">
     <iframe className="w-full aspect-video" width="100%" height="100%"  src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
