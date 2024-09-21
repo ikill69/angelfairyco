@@ -12,8 +12,8 @@ ogImage:
 
 # Learn How to solve a Rubik's Cube
 
-1. <a href="#intro">Intro</a>
-2. <a href="#purchase">Purchase</a>
+1. <a href="#purchase">Purchase</a>
+2. <a href="#intro">Intro</a>
 3. <a href="#daisy-and-white-cross">Daisy and White Cross</a>
 4. <a href="#white-cross">White Cross and Bottom Corners</a>
 5. <a href="#Middle Row">middle-row</a>
@@ -21,6 +21,9 @@ ogImage:
 7. <a href="#Top Corners">top-corners</a>
 
 
+<h2 id="purchase">Purchase</h2>
+
+The best place to <a href="https://amzn.to/4ew2Giv" target="_blank" alt="">find a Rubik's Cube is Amazon</a>. This is an affiliate link.
 
 <h2 id="intro">Intro</h2>
 
@@ -35,10 +38,6 @@ Explanation about the Rubik's cube and how the pieces move
 <div class="aspect-video">
     <iframe class="w-full h-full" src="https://www.youtube.com/embed/kWuNClacZk0" frameBorder="0" title="Solve the Rubik's cube for kids - Intro" aria-hidden="true"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<h2 id="purchase">Purchase</h2>
-
-The best place to <a href="https://amzn.to/4ew2Giv" target="_blank" alt="">find a Rubik's Cube is Amazon</a>. This is an affiliate link.
 
 <h2 id="daisy-and-white-cross">Daisy and White Cross</h2>
 
